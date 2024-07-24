@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@ledgerhq/hw-app-eth": "^6.37.3",
+    "@ledgerhq/hw-transport-webusb": "^6.29.2",
+    "@types/node": "20.11.17",
+    "ethers": "5.7.1",
+    "ts-node": "10.9.2",
+    "typescript": "5.1.6",
+    "viem": "2.7.6"
+  },
+  "scripts": {
+    "97-test": "ts-node 97-test.ts"
+  }
+}
